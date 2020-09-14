@@ -1,9 +1,7 @@
 # Hi there 👋
 ### ⚡ Fun fact: You can do this too! Create a repository with your own github username.
 
-<span style="display:inline-table;text-align:center">![Yash Rastogi's github stats](https://github-readme-stats.vercel.app/api?username=yashrastogi&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact)](https://github.com/yashrastogi)</span>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrastogi&show_icons=true&theme=radical" />&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact" />
 
 
 <!--
