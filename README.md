@@ -1,7 +1,7 @@
 # Hi there 👋
 ### ⚡ Fun fact: You can do this too! Create a repository with your own github username.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrastogi&show_icons=true&theme=radical" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrastogi&show_icons=true&theme=radical" />&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact&langs_count=12&hide=Assembly,Makefile,C,Perl,Objective-C,Bison" />
 
 
 <!--
