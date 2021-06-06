@@ -15,7 +15,7 @@
 		<td><a href="#"><img src="/.github/icons/bash.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/materialui.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/bootstrap.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/s3.svg" width="60"/></a></td>
+<!-- 		<td><a href="#"><img src="/.github/icons/s3.svg" width="60"/></a></td> -->
 	</tr>
 	<tr align="center">
 		<td>TypeScript</td>
@@ -26,7 +26,7 @@
 		<td>Bash</td>
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
-		<td>AWS S3</td>
+<!-- 		<td>AWS S3</td> -->
 	</tr>
 </table>
 <!-- <table >
