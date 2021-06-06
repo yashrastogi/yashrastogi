@@ -10,23 +10,23 @@
 		<td><a href="#"><img src="/.github/icons/typescript.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/react.png" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/nodejs.svg" width="60"/></a></td>
+		<td><a href="#"><img src="/.github/icons/mongodb.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/expressjs.png" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/bash.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/materialui.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/bootstrap.svg" width="60"/></a></td>
 		<td><a href="#"><img src="/.github/icons/s3.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/mongodb.svg" width="60"/></a></td>
 	</tr>
 	<tr align="center">
 		<td>TypeScript</td>
 		<td>React</td>
 		<td>Node.js</td>
+		<td>MongoDB</td>
 		<td>Express.js</td>
 		<td>Bash</td>
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
 		<td>AWS S3</td>
-		<td>MongoDB</td>
 	</tr>
 </table>
 <!-- <table >
