@@ -7,20 +7,21 @@
 
 <table >
 	<tr align="center">
-		<td><a href="#"><img src="/.github/icons/typescript.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/react.png" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/nodejs.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/mongodb.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/postgresql.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/expressjs.png" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/bash.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/materialui.svg" width="60"/></a></td>
-		<td><a href="#"><img src="/.github/icons/bootstrap.svg" width="60"/></a></td>
-<!-- 		<td><a href="#"><img src="/.github/icons/s3.svg" width="60"/></a></td> -->
+		<td><a href="#"><img src="./.github/icons/flutter.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/typescript.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/react.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/nodejs.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/mongodb.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/postgresql.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/expressjs.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/bash.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/materialui.svg" width="60" height="60"/></a></td>
+		<td><a href="#"><img src="./.github/icons/bootstrap.svg" width="60" height="60"/></a></td>
 	</tr>
 	<tr align="center">
+		<td>Flutter</td>
 		<td>TypeScript</td>
-		<td>React</td>
+		<td>React/Native</td>
 		<td>Node.js</td>
 		<td>MongoDB</td>
 		<td>PostgreSQL</td>
@@ -28,7 +29,6 @@
 		<td>Bash</td>
 		<td>Material-UI</td>
 		<td>Bootstrap</td>
-<!-- 		<td>AWS S3</td> -->
 	</tr>
 </table>
 <!-- <table >
